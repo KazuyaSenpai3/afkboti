@@ -1,0 +1,51 @@
+{
+  "bot-account": {
+    "username": "maneeegabot",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "MakimaChan57Cq.aternos.me",
+    "port": 21234,
+    "version": "1.17"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": "12345678"
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 20,
+
+      "messages": [
+        "sup neegurs ",
+        "My owner is Kise and miss na miss na nya si cess ",
+        "miss kana ng developer ko cess balik kana pls ",
+        "kung si franklin ay cheater ako hinde kaya balik kana cess i love you",
+        "kung may bago kna edi ouch ayos lng yan miss namn kita",
+        "i love you cess miss yoy"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": false,
+    "auto-recconect-delay": 5000
+  }
+}
